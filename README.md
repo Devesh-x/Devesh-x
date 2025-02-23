@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 👋 Hi, I'm Devesh Rajput, a MERN stack developer with strong Java & DSA skills. <br>💡 Always learning, building, and collaborating to solve real-world problems!<br>🤓 Fun Fact: I can spend hours debugging a problem, but I still struggle to decide what to eat for lunch!<br>📫 Let's connect: linkedin.com/in/devesh2904
 
 
