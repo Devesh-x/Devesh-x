@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1549683937-299f24419965?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGNvZGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60" alt="Minimal code background" width="800" style="border-radius: 10px;"/>
+  <img src="https://i.imgur.com/3bA4h6H.gif" alt="Pixel art developer workspace" width="800" style="border-radius: 10px;"/>
   
-  <h1>Devesh Rajput 👋</h1>
+  <h1>Hi there, I'm Devesh Rajput 👋</h1>
   
   <p>A passionate MERN stack developer with strong skills in Java & DSA. <br> Always learning, building, and collaborating to solve real-world problems!</p>
   
@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/devesh_1212/">
-    <img src="https://leetcode-stats.vercel.app/api?username=devesh_1212&theme=dracula" alt="Devesh's LeetCode Stats" style="height: 195px;"/>
+    <img src="https://leetcode-stats.vercel.app/api?username=devesh_1212&theme=dark" alt="Devesh's LeetCode Stats" style="height: 195px;"/>
   </a>
   <a href="https://github.com/Devesh-x">
     <img src="https://github-readme-stats.vercel.app/api?username=Devesh-x&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" alt="Devesh's GitHub Stats" style="height: 195px;" />
@@ -43,8 +43,6 @@
 ### 🛠️ My Tech Stack
 
 <div align="center">
-  
-  <h4>Languages</h4>
   <p>
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -52,29 +50,17 @@
     <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
     <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  </p>
-
-  <h4>Frontend</h4>
-  <p>
     <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
     <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
     <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
     <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
     <img src="https://img.shields.io/badge/Chakra_UI-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI"/>
     <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  </p>
-
-  <h4>Backend & Databases</h4>
-  <p>
     <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
     <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
     <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
     <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
     <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  </p>
-
-  <h4>Tools & Platforms</h4>
-  <p>
     <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
