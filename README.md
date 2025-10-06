@@ -28,8 +28,9 @@ MERN stack developer with a strong background in computer science fundamentals, 
 
 ### 🏆 LeetCode Stats
 
+
 <a href="https://leetcode.com/u/devesh_1212/">
-  <img src="https://leetcard.jacoblin.cool/api/badges/devesh_1212" alt="LeetCode Badges"/>
+  <img src="https://github-readme-stats.vercel.app/api/leetcode?username=devesh_1212&theme=dracula" alt="Devesh's LeetCode Stats" />
 </a>
 
 <a href="https://leetcode.com/u/devesh_1212/">
