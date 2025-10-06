@@ -16,36 +16,21 @@ MERN stack developer with a strong background in computer science fundamentals, 
 
 </p>
 
-  
-
-  
+ 
 
 <div>
-
   <a href="https://www.linkedin.com/in/devesh2904" target="_blank">
-
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-
   </a>
-
   <a href="https://x.com/DeveshR1818" target="_blank">
-
     <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
-
   </a>
-
   <a href="https://instagram.com/deveeeesh" target="_blank">
-
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-
   </a>
-
   <a href="mailto:r.rajput12111@gmail.com">
-
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-
   </a>
-
 </div>
 
 
