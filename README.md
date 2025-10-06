@@ -8,8 +8,6 @@
   Specializing in the <strong>MERN stack</strong>, I build full-stack applications grounded in solid <strong>Java & DSA</strong> principles. My focus is on writing clean, efficient code to solve complex, real-world problems.
 </p>
   
-<p><i>🤓 Fun Fact: I can spend hours debugging a problem, but I still struggle to decide what to eat for lunch!</i></p>
-  
 <div>
   <a href="https://www.linkedin.com/in/devesh2904" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
