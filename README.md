@@ -73,11 +73,3 @@
 </p>
 
 ---
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-</a>
-  
-<p>
-  <img src="https://visitcount.itsvg.in/api?id=Devesh-x&icon=0&color=0" alt="Visitor Count"/>
-</p>
