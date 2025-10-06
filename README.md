@@ -30,6 +30,10 @@
 ### 🏆 LeetCode Stats
 
 <a href="https://leetcode.com/u/devesh_1212/">
+  <img src="https://leetcard.jacoblin.cool/api/badges/devesh_1212" alt="LeetCode Badges"/>
+</a>
+
+<a href="https://leetcode.com/u/devesh_1212/">
   <img src="https://leetcard.jacoblin.cool/devesh_1212?theme=dark&ext=heatmap" alt="LeetCode Stats and Activity Heatmap"/>
 </a>
 
