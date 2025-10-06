@@ -2,13 +2,12 @@
   <img src="https://raw.githubusercontent.com/Devesh-x/Devesh-x/main/tumblr_owi25v6uAo1r4gsiio1_1280_gif%20(1000%C3%97300).gif" alt="Pixel art developer workspace" width="800" style="border-radius: 10px;"/>
 </div>
 
-# Hi there, I'm Devesh Rajput 👋
+# Hi there, I'm Devesh Rajput
   
 <p>
-  Specializing in the <strong>MERN stack</strong>, I build full-stack applications grounded in solid <strong>Java & DSA</strong> principles. My focus is on writing clean, efficient code to solve complex, real-world problems.
+MERN stack developer with a strong background in computer science fundamentals, including Java and Data Structures & Algorithms. Bridging the gap between modern web technologies and efficient backend logic.
 </p>
   
-<p><i>🤓 Fun Fact: I can spend hours debugging a problem, but I still struggle to decide what to eat for lunch!</i></p>
   
 <div>
   <a href="https://www.linkedin.com/in/devesh2904" target="_blank">
