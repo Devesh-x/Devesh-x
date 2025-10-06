@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://i.imgur.com/3bA4h6H.gif](https://in.pinterest.com/pin/211174978558660/)](https://in.pinterest.com/pin/211174978558660/)" alt="Pixel art developer workspace" width="800" style="border-radius: 10px;"/>
+  <img src="https://in.pinterest.com/pin/211174978558660/" alt="Pixel art developer workspace" width="800" style="border-radius: 10px;"/>
   
   <h1>Hi there, I'm Devesh Rajput 👋</h1>
   
