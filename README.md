@@ -1,5 +1,5 @@
 <div align="center">
-  ![tumblr_owi25v6uAo1r4gsiio1_1280_gif (1000×300)](https://github.com/user-attachments/assets/bb9dffb9-dd47-4668-8ebe-fea62757cc89)
+  <img src="https://raw.githubusercontent.com/Devesh-x/Devesh-x/main/tumblr_owi25v6uAo1r4gsiio1_1280_gif%20(1000%C3%97300).gif" alt="Pixel art developer workspace" width="800" style="border-radius: 10px;"/>
 
   
   <h1>Hi there, I'm Devesh Rajput 👋</h1>
