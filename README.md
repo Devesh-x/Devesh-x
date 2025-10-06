@@ -7,7 +7,9 @@
 <p>
   Specializing in the <strong>MERN stack</strong>, I build full-stack applications grounded in solid <strong>Java & DSA</strong> principles. My focus is on writing clean, efficient code to solve complex, real-world problems.
 </p>
-
+  
+<p><i>🤓 Fun Fact: I can spend hours debugging a problem, but I still struggle to decide what to eat for lunch!</i></p>
+  
 <div>
   <a href="https://www.linkedin.com/in/devesh2904" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -25,19 +27,10 @@
 
 ---
 
-### 🏆 LeetCode Badges & Activity
-
-This section showcases my dedication to problem-solving and algorithmic challenges.
-
-<p>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-badge.vercel.app/api/stats/devesh_1212&query=$.totalSolved&label=Total Solved&color=blue&style=for-the-badge&logo=leetcode" alt="Total Solved"/>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-badge.vercel.app/api/stats/devesh_1212&query=$.easySolved&label=Easy&color=green&style=for-the-badge&logo=leetcode" alt="Easy Solved"/>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-badge.vercel.app/api/stats/devesh_1212&query=$.mediumSolved&label=Medium&color=orange&style=for-the-badge&logo=leetcode" alt="Medium Solved"/>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-badge.vercel.app/api/stats/devesh_1212&query=$.hardSolved&label=Hard&color=red&style=for-the-badge&logo=leetcode" alt="Hard Solved"/>
-</p>
+### 🏆 LeetCode Stats
 
 <a href="https://leetcode.com/u/devesh_1212/">
-  <img src="https://leetcard.jacoblin.cool/devesh_1212?theme=dark&ext=heatmap" alt="LeetCode Activity Heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/devesh_1212?theme=dark&ext=heatmap" alt="LeetCode Stats and Activity Heatmap"/>
 </a>
 
 ---
